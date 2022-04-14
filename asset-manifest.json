@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/assame/static/css/main.822ff19d.css",
+    "main.js": "/assame/static/js/main.35914821.js",
+    "static/js/787.5c5711e9.chunk.js": "/assame/static/js/787.5c5711e9.chunk.js",
+    "static/media/banner1.jpg": "/assame/static/media/banner1.eef08ac28c9d4b1a28e4.jpg",
+    "static/media/logo.png": "/assame/static/media/logo.00835f0caa118db06c4e.png",
+    "static/media/namelogo.png": "/assame/static/media/namelogo.e73628264c6a56e67b07.png",
+    "index.html": "/assame/index.html",
+    "main.822ff19d.css.map": "/assame/static/css/main.822ff19d.css.map",
+    "main.35914821.js.map": "/assame/static/js/main.35914821.js.map",
+    "787.5c5711e9.chunk.js.map": "/assame/static/js/787.5c5711e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822ff19d.css",
+    "static/js/main.35914821.js"
+  ]
+}
